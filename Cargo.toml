@@ -1,0 +1,13 @@
+[package]
+name = "pakr-fsm"
+version = "0.1.0"
+authors = ["Pawel Kraszewski <pawel@kraszewscy.net>"]
+edition = "2018"
+description = "Template to implement finite-state-machines"
+keywords = ["fsm","automata"]
+categories = ["concurrency","asynchronous"]
+repository = "https://github.com/p-kraszewski/pakr-fsm"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
